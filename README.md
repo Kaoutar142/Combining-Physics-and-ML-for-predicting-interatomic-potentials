@@ -2,7 +2,7 @@
 
 This repository contains the source code used in the research article [Combining Physics and Machine Learning: Hybrid Models for predicting interatomic potentials]. 
 The study explores various hybrid approaches combining physics-based models and machine learning to predict interatomic potential energy curves. 
-The models are evaluated on their ability to reproduce the ground and first excited electronic states of diatomic molecules, with a particular focus on Franck-Condon factors and RMSE performance.
+The models are evaluated on their ability to reproduce the ground and first excited electronic states of diatomic molecules, with a particular focus on Franck-Condon factors and MSE performance.
 
 ## Repository Structure
 
